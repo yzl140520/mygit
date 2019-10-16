@@ -1,6 +1,6 @@
 
 Pod::Spec.new do |s|
-s.name         = "mygit.podspec" # 项目名称
+s.name         = "mygit" # 项目名称
 s.version      = "0.0.1"        # 版本号 与 你仓库的 标签号 对应
 #s.license      = "MIT"          # 开源证书
 s.summary      = "私人pod代码" # 项目简介
