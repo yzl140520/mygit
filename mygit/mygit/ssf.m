@@ -1,17 +1,13 @@
 //
-//  ff.h
+//  ssf.m
 //  mygit
 //
 //  Created by yangzhiling on 2019/10/16.
 //  Copyright © 2019 yangzhiling. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "ssf.h"
 
-NS_ASSUME_NONNULL_BEGIN
-
-@interface ff : SZYJsonModel
+@implementation ssf
 
 @end
-
-NS_ASSUME_NONNULL_END

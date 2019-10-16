@@ -16,7 +16,7 @@
 		5B892A2E2356C12100C2C484 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B892A2D2356C12100C2C484 /* main.m */; };
 		5B892A382356C12200C2C484 /* mygitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B892A372356C12200C2C484 /* mygitTests.m */; };
 		5B892A432356C12200C2C484 /* mygitUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B892A422356C12200C2C484 /* mygitUITests.m */; };
-		5B892A522356F84600C2C484 /* ff.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B892A512356F84600C2C484 /* ff.m */; };
+		5B892A552356F8F600C2C484 /* ssf.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B892A542356F8F600C2C484 /* ssf.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,8 +55,8 @@
 		5B892A3E2356C12200C2C484 /* mygitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mygitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B892A422356C12200C2C484 /* mygitUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = mygitUITests.m; sourceTree = "<group>"; };
 		5B892A442356C12200C2C484 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5B892A502356F84600C2C484 /* ff.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ff.h; sourceTree = "<group>"; };
-		5B892A512356F84600C2C484 /* ff.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ff.m; sourceTree = "<group>"; };
+		5B892A532356F8F600C2C484 /* ssf.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ssf.h; sourceTree = "<group>"; };
+		5B892A542356F8F600C2C484 /* ssf.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ssf.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,8 +118,8 @@
 				5B892A292356C12100C2C484 /* LaunchScreen.storyboard */,
 				5B892A2C2356C12100C2C484 /* Info.plist */,
 				5B892A2D2356C12100C2C484 /* main.m */,
-				5B892A502356F84600C2C484 /* ff.h */,
-				5B892A512356F84600C2C484 /* ff.m */,
+				5B892A532356F8F600C2C484 /* ssf.h */,
+				5B892A542356F8F600C2C484 /* ssf.m */,
 			);
 			path = mygit;
 			sourceTree = "<group>";
@@ -272,9 +272,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5B892A522356F84600C2C484 /* ff.m in Sources */,
 				5B892A232356C11F00C2C484 /* ViewController.m in Sources */,
 				5B892A1D2356C11F00C2C484 /* AppDelegate.m in Sources */,
+				5B892A552356F8F600C2C484 /* ssf.m in Sources */,
 				5B892A2E2356C12100C2C484 /* main.m in Sources */,
 				5B892A202356C11F00C2C484 /* SceneDelegate.m in Sources */,
 			);
